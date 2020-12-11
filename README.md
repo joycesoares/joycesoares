@@ -1,5 +1,5 @@
 ## Hello World, I'm Joyce :relaxed:
-I'm a Front End and UI/UX Designer based in Brazil.
+I'm a Front End and UI/UX Designer living in Brazil
   
 <img align="right" alt="GIF" src="https://github.com/joycesoares/joycesoares/blob/main/girl-code.gif?raw=true" width="500" height="300" />
 
