@@ -19,7 +19,7 @@ I'm a Front End and UI/UX Designer living in Brazil
 
 ### You can find me at:
 
-[![Linkedin Badge](https://img.shields.io/badge/-joycesrs-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joysesr/) 
+[![Linkedin Badge](https://img.shields.io/badge/-joycesrs-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/joycesrs/) 
 [![Dribbble Badge](https://img.shields.io/badge/-@joycesoares-e84393?style=flat&labelColor=e84393&logo=dribbble&logoColor=white)](https://www.dribbble.com/joycesoares/)
 [![Mail Badge](https://img.shields.io/badge/-joycesoares-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:joysesr@gmail.com)
 
